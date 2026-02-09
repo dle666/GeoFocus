@@ -1,4 +1,4 @@
-<h3 align="center"> <a href="">GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Reasoning</a></h3>
+<h3 align="center"> <a href="https://github.com/dle666/GeoFocus/blob/main/docs/GeoFocus_paper.pdf">GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Reasoning</a></h3>
 <h2></h2>
 
 <h4 align="center"> Please give us a star ⭐ for the latest update.  </h4>
