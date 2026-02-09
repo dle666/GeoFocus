@@ -2,7 +2,7 @@
 <h2></h2>
 
 <h5 align="center"> Please give us a star ⭐ for the latest update.  </h5>
-<p align="center">
+<p align="center" style="margin-top: 0;">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QzZj.jpg" width="1200"/>
 <p>
 
@@ -31,11 +31,9 @@ You can download the training data used by GeoFocus from [Global_Perceptor_Data]
 You can download the test data from [Geo_test](https://huggingface.co/datasets/dle666/GeoFocus-test)
 
 Examples of Global_Perceptor_Data:
-<br>
 <p align="center">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QQKg.jpg" width="1200"/>
 <p>
-<br>
 <!-- Examples of Local_Perceptor_Data:
 <br>
 <p align="center">
@@ -77,11 +75,9 @@ bash run.sh
 ```
 
 ## Comparison of Qualitative Results
-<br>
 <p align="center">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QwMF.jpg" width="1200"/>
 <p>
-<br>
 
 ## Acknowledgement
 Our work benefit from the following open-source projects:
