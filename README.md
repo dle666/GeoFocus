@@ -63,12 +63,12 @@ pip install flash-attn==2.3.6 --no-build-isolation
 pip install -e .
 ```
 
-## Training and Evaluating
+## Training and Evaluation
 
 
 ```bash
 cd GeoFocus_dynamicGT/
-# When evaluating, you only need to add the parameter val_only=True.
+# When evaluation, you only need to add the parameter val_only=True.
 bash run.sh
 ```
 
