@@ -30,7 +30,7 @@ You can download the test data from [Geo_test](https://huggingface.co/datasets/d
 Examples of Global_Perceptor_Data:
 <br>
 <p align="center">
-    <img src="https://s41.ax1x.com/2026/02/09/pZ7QQKg.jpg" width="800"/>
+    <img src="https://s41.ax1x.com/2026/02/09/pZ7QQKg.jpg" width="1200"/>
 <p>
 <br>
 Examples of Local_Perceptor_Data:
