@@ -1,7 +1,7 @@
 <h3 align="center"> <a href="https://arxiv.org/abs/2410.17885">GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Reasoning</a></h3>
 <h2></h2>
 
-<h5 align="center"> Please give us a star ⭐ for the latest update.  </h5>
+<h5 align="center" style="font-size: 28px;"> Please give us a star ⭐ for the latest update.  </h5>
 <p align="center" style="margin-top: 0;">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QzZj.jpg" width="1200"/>
 <p>
@@ -30,16 +30,14 @@ You can download the training data used by GeoFocus from [Global_Perceptor_Data]
 
 You can download the test data from [Geo_test](https://huggingface.co/datasets/dle666/GeoFocus-test)
 
-Examples of Global_Perceptor_Data:
+<!-- Examples of Global_Perceptor_Data:
 <p align="center">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QQKg.jpg" width="1200"/>
-<p>
-<!-- Examples of Local_Perceptor_Data:
-<br>
+<p> -->
+Examples of Local_Perceptor_Data:
 <p align="center">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7MjER.jpg" width="1200"/>
 <p>
-<br> -->
 
 ## Environment
 
