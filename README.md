@@ -2,11 +2,9 @@
 <h2></h2>
 
 <h5 align="center"> Please give us a star ⭐ for the latest update.  </h5>
-<br>
 <p align="center">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QzZj.jpg" width="1200"/>
 <p>
-<br>
 
 ## News 
 * ```2026.2.9``` 🎉🎉🎉 We source training datasets.
@@ -38,13 +36,12 @@ Examples of Global_Perceptor_Data:
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QQKg.jpg" width="1200"/>
 <p>
 <br>
-Examples of Local_Perceptor_Data:
+<!-- Examples of Local_Perceptor_Data:
 <br>
 <p align="center">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7MjER.jpg" width="1200"/>
 <p>
-<br>
-
+<br> -->
 
 ## Environment
 
