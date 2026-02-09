@@ -1,7 +1,7 @@
 <h3 align="center"> <a href="https://arxiv.org/abs/2410.17885">GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Reasoning</a></h3>
 <h2></h2>
 
-<h5 align="center" style="font-size: 28px;"> Please give us a star ⭐ for the latest update.  </h5>
+<h4 align="center"> Please give us a star ⭐ for the latest update.  </h4>
 <p align="center" style="margin-top: 0;">
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QzZj.jpg" width="1200"/>
 <p>
