@@ -1,0 +1,13 @@
+Please identify all vertex coordinates in 2D from the image. The range of both x and y coordinates is (0, 1), and each coordinate should be rounded to two decimal places.
+If there is a circle in the image, provide its radius. If not, set radius = 0.0.
+Also, create a connection dictionary that shows which points are connected by lines.
+Output the result strictly in the following Python format.
+Please wrap the following structure inside <structure></structure> tags, and enclose the model’s entire output within <answer></answer> tags.
+Below is a example.
+<answer>
+<structure>
+coordinates = {'O': (0.0, 0.06), 'P': (1.0, 0.06), 'I': (0.5, 0.92)}
+radius = 1.0
+connection_dict = {'O': ['P', 'I'], 'P': ['O'], 'I': ['O']}
+</structure>
+</answer>
