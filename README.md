@@ -14,12 +14,19 @@
 You can download the training data used by GeoFocus from [Global_Perceptor_Data](https://huggingface.co/datasets/dle666/Global_Perceptor) and [Local_Perceptor_Data](https://huggingface.co/datasets/dle666/Local_Perceptor).
 
 You can download the test data from [Geo_test](https://huggingface.co/datasets/dle666/GeoFocus-test)
-<!-- Examples of GeoMM:
+Examples of Global_Perceptor_Data:
 <br>
 <p align="center">
-    <img src="https://s21.ax1x.com/2024/10/20/pAaGpRJ.png" width="800"/>
+    <img src="https://s41.ax1x.com/2026/02/09/pZ7QQKg.jpg" width="800"/>
 <p>
-<br> -->
+<br>
+    
+Examples of Local_Perceptor_Data:
+<br>
+<p align="center">
+    <img src="https://s41.ax1x.com/2026/02/09/pZ7MjER.jpg" width="800"/>
+<p>
+<br>
 
     
 ## 🐳 Model Zoo
