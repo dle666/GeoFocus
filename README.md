@@ -1,4 +1,4 @@
-<h3 align="center"> <a href="https://arxiv.org/abs/2410.17885">GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Reasoning</a></h3>
+<h3 align="center"> <a href="">GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Reasoning</a></h3>
 <h2></h2>
 
 <h4 align="center"> Please give us a star ⭐ for the latest update.  </h4>
@@ -10,7 +10,7 @@
 * ```2026.2.9``` 🎉🎉🎉 We source training datasets.
 * ```2026.2.9``` 🎉🎉🎉 We source the model weights for the GeoFocus-3B, GeoFocus-7B.
 * ```2026.2.9``` 🎉🎉🎉 We source the training code and evaluation code.
-* ```2026.2.9```🎉🎉🎉 We release the paper [GeoFocus](https://arxiv.org/abs/2410.17885).
+* ```2026.2.9```🎉🎉🎉 We release the paper [GeoFocus]().
 
 
 ## 🐳 Model Zoo
