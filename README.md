@@ -10,7 +10,7 @@
 * ```2026.2.9``` 🎉🎉🎉 We source training datasets.
 * ```2026.2.9``` 🎉🎉🎉 We source the model weights for the GeoFocus-3B, GeoFocus-7B.
 * ```2026.2.9``` 🎉🎉🎉 We source the training code and evaluation code.
-* ```2026.2.9```🎉🎉🎉 We release the paper [GeoFocus]().
+* ```2026.2.9```🎉🎉🎉 We release the paper [GeoFocus](https://arxiv.org/pdf/2602.08524).
 
 
 ## 🐳 Model Zoo
