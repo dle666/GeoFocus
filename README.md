@@ -77,6 +77,18 @@ bash run.sh
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QwMF.jpg" width="1200"/>
 <p>
 
+## Citing R-CoT
+If you wish to refer to the baseline results published here, please use the following BibTeX entries:
+
+```BibTeX
+@article{deng2026geofocus,
+  title={GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Problem-Solving},
+  author={Deng, Linger and Liu, Yuliang and Yu, Wenwen and Zhang, Zujia and Ju, Jianzhong and Luo, Zhenbo and Bai, Xiang},
+  journal={arXiv preprint arXiv:2602.08524},
+  year={2026}
+}
+```
+
 ## Acknowledgement
 Our work benefit from the following open-source projects:
 - [Qwen2.5](https://github.com/QwenLM/Qwen2.5)
