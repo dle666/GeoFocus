@@ -77,7 +77,7 @@ bash run.sh
     <img src="https://s41.ax1x.com/2026/02/09/pZ7QwMF.jpg" width="1200"/>
 <p>
 
-## Citing R-CoT
+## Citing GeoFocus
 If you wish to refer to the baseline results published here, please use the following BibTeX entries:
 
 ```BibTeX
